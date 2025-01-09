@@ -19,6 +19,7 @@ namespace WpfApp19
         public MainWindow()
         {
             InitializeComponent();
+            Console.Write("Hey!");
         }
     }
 }
